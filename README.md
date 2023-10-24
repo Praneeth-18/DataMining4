@@ -8,6 +8,8 @@ HTML and JS visualizations within a Python environment by using **D3.js**, a pop
 
 **Assignment 2 - Auto EDA :**
 
+Auto EDA with Sweetviz
+
 .
 
 **Assignment 3 - Apache Beam features:**
